@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lzpsqz
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Vue2、Vue3、uni-app
-- 💞️ I’m looking to collaborate on "Zhoukou Normal University"
+- 💞️ 
 - 📫 How to reach me 1946545324@qq.com or louzhanpeng94@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
